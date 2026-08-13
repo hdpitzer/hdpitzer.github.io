@@ -10,18 +10,16 @@ location: "Atlanta, GA"
 
 Instructor of record, Spring 2026.
 
-I teach Intermediate Microeconomics with an emphasis on clear structure and active practice. My approach pairs concise lectures with daily in-class worksheets, weekly problem sets, and prompt feedback, giving students structured, low-stakes practice and frequent opportunities to ask questions.
+My approach to teaching econometrics labs emphasizes clear structure and active practice. I pair concise instruction with hands-on in-class exercises, weekly problem sets, and prompt feedback, giving students structured, low-stakes opportunities to apply econometric concepts and build confidence working with data.
 
-Spring 2026 Evaluation: 3.87/4
 
 ## What Students Say
 
-> Coming into ECON 201, I was told to be aware of the difficulty of the course, but Lucie crafted the material in an approachable way and was always present to answer additional questions.
+> I think it is very nice that we are learning how to implement the concepts we learned in class to analyze real data using python. I think the lab is great and very helpful.
 
-> Lectures were clear and concise. They showed good examples combined with practice sets we solved that facilitated learning effectively.
+> The empty and completed class files are helpful to work with the code along the way during class, but also see how it should look like. The lab exercises are very thorough, comprehensive, and detailed so it's easy for me to understand what I'm working on.
 
-> Lucie was very good at breaking down the structure of the class — especially with the lectures, worksheets, and problem sets. She always brings professionalism and a great attitude to help students understand the material and learn at their own pace. I would definitely recommend her to other students.
+> I would say that for me, the way that the class is open to questions, and how you thoroughly make sure all questions are answered, allows me to learn the material as best as I can.
 
-> Lucie always made sure we were aware of deadlines for assignments and that we were up to date with upcoming assessments. I appreciated the clarity and flexibility she maintained with us, as well as her organization of the course.
+> I find it to be helpful in understanding how econometrics is applied in the real world, and how we are expected to use the tools we are learning in lecture.
 
-> I have nothing but amazing things to say about Prof. Lucie — she constantly went above and beyond for each and every one of her students. She always came to class prepared and organized. Intermediate Microeconomics is a hard subject to learn, and I'm sure an even harder subject to teach, but Lucie handled it with absolute grace. When she knew I was confused on a certain subject, she would come check on me in class to make sure I was doing alright on that day's worksheet. She also handled accommodations really well, making sure each student had what they needed to do as best they possibly could. I was nervous coming into this class, but Lucie was nothing short of amazing, and I am leaving with the highest praise.
