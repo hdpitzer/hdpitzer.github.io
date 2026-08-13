@@ -17,8 +17,8 @@ author_profile: true
 
 I have also served as a teaching assistant for the following courses at Emory University:
 
-- **ECON 600: Microeconomic Theory I (PhD)** — Fall 2022, Fall 2023, Fall 2024
-- **ECON 601: Microeconomic Theory II (PhD)** — Spring 2024
-- **ECON 201: Intermediate Microeconomics** — Fall 2022, Spring 2023, Fall 2023, Fall 2024
-- **ECON 341: Business and Government** — Spring 2023, Fall 2024
-- **ECON 341: Managerial Economics** — Fall 2024
+- **ECON 372: Economics of Health Care Markets** — Fall 2023
+- **ECON 310: Experimental Economics** — Fall 2024
+- **ECON 415: Behavioral Economics & Finance** — Fall 2024
+- **ECON 371: Health Economics** — Spring 2025
+- **ECON 220: Data Science for Economists** — Fall 2025
