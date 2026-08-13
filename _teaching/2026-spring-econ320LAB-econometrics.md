@@ -1,5 +1,5 @@
 ---
-title: "ECON 320LAB: Econometrics"
+title: "ECON 320 LAB: Econometrics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/econ320LAB-econometrics
