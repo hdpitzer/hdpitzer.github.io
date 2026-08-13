@@ -1,14 +1,14 @@
 ---
-title: "ECON 201: Intermediate Microeconomics"
+title: "ECON 320LAB: Econometrics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/econ201-intermediate-micro
+permalink: /teaching/econ320LAB-econometrics
 venue: "Emory University, Department of Economics"
 date: 2026-01-01
 location: "Atlanta, GA"
 ---
 
-Instructor of record, Summer 2024 and Spring 2026.
+Instructor of record, Spring 2026.
 
 I teach Intermediate Microeconomics with an emphasis on clear structure and active practice. My approach pairs concise lectures with daily in-class worksheets, weekly problem sets, and prompt feedback, giving students structured, low-stakes practice and frequent opportunities to ask questions.
 
