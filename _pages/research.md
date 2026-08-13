@@ -7,12 +7,9 @@ author_profile: true
 
 ## Job Market Paper
 
-"Privacy Regulation and Optimal Product Design"
+"The Effects of Interstate Licensure Compacts on Mental Health"
 <!-- [Download PDF](/files/job-market-paper.pdf)-->
 
 ## Works in Progress
 
-"Flexible Information Acquisition in the Market for Lemons"
-with Kyungmin Kim and Guram Lobzhanidze 
-
-"Optimal Consumer Privacy with an Expert"
+"Interstate Licensure Compacts and Care Delivery"
