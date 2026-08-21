@@ -10,7 +10,7 @@ location: "Atlanta, GA"
 
 Instructor of record, Spring 2026.
 
-My approach to teaching econometrics labs emphasizes clear structure and active practice. I pair concise instruction with hands-on in-class exercises, weekly problem sets, and prompt feedback, giving students structured, low-stakes opportunities to apply econometric concepts and build confidence working with data.
+My approach to teaching econometrics labs emphasizes clear structure and active practice. I pair concise instruction with hands-on in-class exercises, weekly problem sets, and prompt feedback, giving students structured, low-stakes opportunities to apply econometric concepts and build confidence working with data. 
 
 
 ## What Students Say
