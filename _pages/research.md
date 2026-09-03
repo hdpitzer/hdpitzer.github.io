@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-"The Effects of Interstate Licensure Compacts on Mental Health"
+"Crossing State Lines: Licensure Compacts, Provider Mobility, and Mental Health"
 <!-- [Download PDF](/files/job-market-paper.pdf)-->
 
 ## Works in Progress
