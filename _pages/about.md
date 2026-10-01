@@ -15,7 +15,7 @@ I am on the job market in the 2026-2027 academic year.
 
 **"Crossing State Lines: Licensure Compacts, Provider Mobility, and Mental Health"**
 
-*Abstract:* Despite the high prevalence of mental illness, most Americans reside in areas with insufficient mental health professionals to meet demand. In response to widespread health professional shortages, policymakers have turned to interstate licensure compacts to streamline the licensing process for healthcare providers wishing to practice across state lines. This study examines the effects of interstate licensure compact adoption on mental health outcomes across participating states. Utilizing the staggered adoption of the Interstate Medical Licensure Compact (IMLC) and the Psychology Interjurisdictional Compact (PSYPACT), I analyze their impact on self-reported mental health, antidepressant prescribing rates, and suicide rates. The findings reveal no evidence that the adoption of interstate licensure compacts leads to improved mental health outcomes in states that participate. Thus, while these compacts may increase access to care, they do not appear to result in significant improvements in mental health outcomes, suggesting that broader interventions may be necessary to address the mental health crisis.
+*Abstract:* Despite the high prevalence of mental illness, many Americans live in areas with insufficient access to mental health professionals. Interstate licensure compacts aim to address provider shortages by reducing barriers to practicing across state lines. Leveraging staggered adoption of the Interstate Medical Licensure Compact (IMLC) and Psychology Interjurisdictional Compact (PSYPACT), I examine effects on multi-state licensure, self-reported mental health, SSRI prescribing, and suicide rates. I find that compact participation increases multi-state licensure among eligible providers but find no consistent evidence of improved population mental health outcomes, suggesting that reducing administrative barriers to interstate practice alone may be insufficient to address the mental health crisis. 
 
 <!--[Download PDF](/files/jmp.pdf)-->
 
@@ -23,7 +23,7 @@ I am on the job market in the 2026-2027 academic year.
 
 * Health Economics
 * Mental Health
-* Risky Behavior and Substance Use
+* Access to Care
 
 ## Education
 
