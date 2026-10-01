@@ -10,6 +10,6 @@ author_profile: true
 "Crossing State Lines: Licensure Compacts, Provider Mobility, and Mental Health"
 <!-- [Download PDF](/files/job-market-paper.pdf)-->
 
-## Works in Progress
+## Working Papers
 
-"Interstate Licensure Compacts and Care Delivery"
+"The Effects of Interstate Licensure Compacts on Care Delivery"
