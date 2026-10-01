@@ -7,7 +7,7 @@ excerpt: 'This paper studies the impact of interstate licensure compacts on prov
 date: 2026-07-31
 venue: 
 slidesurl: 
-paperurl: /files/licensure-mh.pdf
+# paperurl: /files/licensure-mh.pdf
 bibtexurl: 
 citation:
 ---
