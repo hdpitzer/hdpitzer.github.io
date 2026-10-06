@@ -17,7 +17,7 @@ I am on the job market in the 2026-2027 academic year.
 
 *Abstract:* Despite the high prevalence of mental illness, many Americans live in areas with insufficient access to mental health professionals. Interstate licensure compacts aim to address provider shortages by reducing barriers to practicing across state lines. Leveraging staggered adoption of the Interstate Medical Licensure Compact (IMLC) and Psychology Interjurisdictional Compact (PSYPACT), I examine effects on multi-state licensure, self-reported mental health, SSRI prescribing, and suicide rates. I find that compact participation increases multi-state licensure among eligible providers but find no consistent evidence of improved population mental health outcomes, suggesting that reducing administrative barriers to interstate practice alone may be insufficient to address the mental health crisis. 
 
-<!--[Download PDF](/files/jmp.pdf)-->
+[Download PDF](/files/licensure-mh.pdf)
 
 ## Research Interests
 
