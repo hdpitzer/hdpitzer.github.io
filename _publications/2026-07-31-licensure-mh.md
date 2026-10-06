@@ -5,7 +5,7 @@ category: jobmarketpaper
 permalink: /publication/licensure-mh
 excerpt: 'This paper studies the impact of interstate licensure compacts on provider licensure and population mental health. Leveraging staggered adoption of the IMLC and PSYPACT, I find that compact participation increases multi-state licensure among eligible providers but find no consistent evidence of improvements in self-reported mental health, SSRI prescribing, or suicide rates. Reducing barriers to interstate practice may therefore be insufficient on its own to improve population mental health.'
 date: 2026-10-06
-venue: test
+venue:
 slidesurl: 
 paperurl: /files/licensure-mh.pdf
 bibtexurl: 
