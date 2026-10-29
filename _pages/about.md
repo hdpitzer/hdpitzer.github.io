@@ -22,6 +22,7 @@ I am on the job market in the 2026-2027 academic year.
 ## Research Interests
 
 * Health Economics
+* Labor Economics
 * Mental Health
 * Access to Care
 
